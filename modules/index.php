@@ -2,7 +2,8 @@
     <div class="vs-hero-carousel navprevnext-white" data-height="550px" data-navprevnext="true">
         <div class="vs-hero-slide ls-slide" data-ls="duration: 7000;
                     transition2d: 5;">
-            <img src="assets/img/hero/hero-img-4-1.jpg" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;" style="margin-top: -1rem;" />
+            <img src="assets/img/hero/hero-img-4-1.jpg" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;"
+                style="margin-top: -1rem;" />
             <span class="hero-subtitle text-white text-font3 h1 ls-l" style="
               left: 50%;
               top: 140px;
@@ -315,7 +316,8 @@
                     <span class="service-icon text-theme d-block mb-30"><i class="flaticon-fork icon-3x"></i></span>
                     <h3 class="service-title link-inherit mb-10">Catering</h3>
                     <p class="service-text mb-0">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda impedit quia beatae doloremque fuga, nemo et corporis ex amet maxime?
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda impedit quia beatae
+                        doloremque fuga, nemo et corporis ex amet maxime?
                     </p>
                 </div>
             </div>
@@ -325,7 +327,8 @@
                             class="flaticon-serving-dish icon-3x"></i></span>
                     <h3 class="service-title link-inherit mb-10">Cena</h3>
                     <p class="service-text mb-0">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro similique quasi ea enim reiciendis quisquam sit sunt et non? Enim!
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro similique quasi ea enim
+                        reiciendis quisquam sit sunt et non? Enim!
                     </p>
                 </div>
             </div>
@@ -334,7 +337,8 @@
                     <span class="service-icon text-theme d-block mb-30"><i class="flaticon-flag icon-3x"></i></span>
                     <h3 class="service-title link-inherit mb-10">Boda</h3>
                     <p class="service-text mb-0">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed exercitationem delectus impedit praesentium saepe nostrum rem, hic ullam iusto ea.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed exercitationem delectus impedit
+                        praesentium saepe nostrum rem, hic ullam iusto ea.
                     </p>
                 </div>
             </div>
@@ -343,7 +347,8 @@
                     <span class="service-icon text-theme d-block mb-30"><i class="flaticon-confetti icon-3x"></i></span>
                     <h3 class="service-title link-inherit mb-10">Cumpleaños</h3>
                     <p class="service-text mb-0">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum libero suscipit quasi eius et recusandae nulla cumque fugiat quo consequuntur!
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum libero suscipit quasi eius et
+                        recusandae nulla cumque fugiat quo consequuntur!
                     </p>
                 </div>
             </div>
@@ -358,16 +363,16 @@
             <div class="col-xl-8">
                 <div class="cta-content text-center text-xl-left mb-30 mb-xl-0">
                     <h2 class="h1 text-font3 text-white">
-                        Clebrate at one of NY's most
-                        <span class="text-theme">awarded</span> restaurant
+                        Los mejores
+                        <span class="text-theme">platillos,</span> se disfrutan con nosotros.
                     </h2>
                     <h4 class="text-font1 mb-0 text-white">
-                        Only this month business lunch from $30.90
+                        ¡Haz tu reserva ahora!
                     </h4>
                 </div>
             </div>
             <div class="col-xl-4 text-center text-xl-right">
-                <a href="#" class="vs-btn mask-style1">Get offer</a>
+                <a href="#" class="vs-btn mask-style1">Hacer reserva</a>
             </div>
         </div>
     </div>
@@ -377,7 +382,7 @@
     <div class="container">
         <div class="section-title text-center">
             <h2 class="sec-title1 text-font3">
-                Client’s <span class="text-theme">Feedback</span>
+                ¿Qué dicen <span class="text-theme">nuestros clientes?</span>
             </h2>
             <div class="sec-line">
                 <img src="assets/img/shape/sec-title-1.png" alt="Section
@@ -389,46 +394,40 @@
             <div class="col-lg-6">
                 <div class="vs-testimonial text-center bg-smoke px-15 px-md-40 px-xl-60 py-15 py-md-35 py-xl-95">
                     <p class="testimonial-text text-md mb-lg-35">
-                        “ Progressively strategize compelling metrics whereas impactful
-                        architectures. Rapidiously fabricate multifunctional customer ”
+                        “ Excelente servicio y atención del personal ”
                     </p>
                     <div class="author-image">
                         <img src="assets/img/testimonial/testimonial-author-2-1.jpg" alt="Testimonial Author Image" />
                     </div>
                     <span class="testimonial-bg-icon"><i class="flaticon-left-quote icon-3x"
                             data-opacity="1"></i></span>
-                    <h3 class="author-name mb-0">Algernon Freddy</h3>
-                    <span>Managing Director</span>
+                    <h3 class="author-name mb-0">Alex Ch Lopez <br><br></h3>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="vs-testimonial text-center bg-smoke px-15 px-md-40 px-xl-60 py-15 py-md-35 py-xl-95">
                     <p class="testimonial-text text-md mb-lg-35">
-                        “ Progressively strategize compelling metrics whereas impactful
-                        architectures. Rapidiously fabricate multifunctional customer ”
+                        “ Excelente servicio y atencion”
                     </p>
                     <div class="author-image">
                         <img src="assets/img/testimonial/testimonial-author-2-1.jpg" alt="Testimonial Author Image" />
                     </div>
                     <span class="testimonial-bg-icon"><i class="flaticon-left-quote icon-3x"
                             data-opacity="1"></i></span>
-                    <h3 class="author-name mb-0">Algernon Freddy</h3>
-                    <span>Managing Director</span>
+                    <h3 class="author-name mb-0">Mike Holguin <br><br></h3>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="vs-testimonial text-center bg-smoke px-15 px-md-40 px-xl-60 py-15 py-md-35 py-xl-95">
                     <p class="testimonial-text text-md mb-lg-35">
-                        “ Progressively strategize compelling metrics whereas impactful
-                        architectures. Rapidiously fabricate multifunctional customer ”
+                        “Excelente servicio y riquísimo la comida 🍲”
                     </p>
                     <div class="author-image">
                         <img src="assets/img/testimonial/testimonial-author-2-1.jpg" alt="Testimonial Author Image" />
                     </div>
                     <span class="testimonial-bg-icon"><i class="flaticon-left-quote icon-3x"
                             data-opacity="1"></i></span>
-                    <h3 class="author-name mb-0">Algernon Freddy</h3>
-                    <span>Managing Director</span>
+                    <h3 class="author-name mb-0">Ivan Alberto Cardenas Amador</h3>
                 </div>
             </div>
         </div>
@@ -439,7 +438,7 @@
     <div class="container">
         <div class="section-title text-center">
             <h2 class="sec-title1 text-font3">
-                Our Food <span class="text-theme">Gallery</span>
+                Enamórate de <span class="text-theme">nuestra galería</span>
             </h2>
             <div class="sec-line">
                 <img src="assets/img/shape/sec-title-1.png" alt="Section
@@ -578,7 +577,7 @@
     <div class="container z-index-common">
         <div class="section-title text-center">
             <h2 class="sec-title1 text-font3 text-white">
-                Make a <span class="text-theme">Reservation</span>
+                Hacer <span class="text-theme"> reservación</span>
             </h2>
             <div class="sec-line">
                 <img src="assets/img/shape/sec-title-2.png" alt="Section
@@ -591,47 +590,41 @@
                     <div class="icon-contact-box mb-10 mb-lg-30 d-flex">
                         <span class="icon pt-1"><i class="fal fa-map-marker-alt fa-3x"></i></span>
                         <div class="media-body ml-15">
-                            <h3 class="box-title mb-1">Our Location</h3>
+                            <h3 class="box-title mb-1">Dirección</h3>
                             <p class="mb-0">
-                                3654 Nasr Street, Mehgine Uptown, Toronto, Canada New York
+                                Paseo Alvaro Obregon & Heroico Colegio Militar, Esterito, La Paz, B.C.S.
                             </p>
                         </div>
                     </div>
                     <div class="icon-contact-box mb-10 mb-lg-30 d-flex">
                         <span class="icon pt-1"><i class="fal fa-phone fa-3x"></i></span>
                         <div class="media-body ml-15">
-                            <h3 class="box-title mb-1">Book a table</h3>
+                            <h3 class="box-title mb-1">Márcanos</h3>
                             <p class="mb-0">
-                                Phone : +1231462-22394256<br />Fax : +12912622438, 4258
+                                Teléfono:
+                                <a href="tel:612 138 6681">612 138 6681</a>
                             </p>
                         </div>
                     </div>
                     <div class="icon-contact-box mb-10 mb-lg-30 d-flex">
                         <span class="icon"><i class="fal fa-envelope fa-3x"></i></span>
                         <div class="media-body ml-15">
-                            <h3 class="box-title mb-1">E-mail Us</h3>
+                            <h3 class="box-title mb-1">Correo</h3>
                             <p class="mb-0">
-                                Support: info@example.com<br />Sales: info@example.com
+                                <a target="_blank" href="mailto:sushitomalecon@gmail.com">sushitomalecon@gmail.com</a>
                             </p>
                         </div>
                     </div>
                     <div class="social-links links-has-border">
-                        <h3 class="box-title mb-2">Follow Us</h3>
+                        <h3 class="box-title mb-2">¡Síguenos en nuestras redes sociales!</h3>
                         <ul>
                             <li>
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a target="_blank" href="https://www.facebook.com/profile.php?id=100064172347932"><i
+                                        class="fab fa-facebook-f"></i></a>
                             </li>
                             <li>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
+                                <a target="_blank" href="https://www.instagram.com/sushitomalecon/"><i
+                                        class="fab fa-instagram"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -640,33 +633,46 @@
             <div class="col-lg-6">
                 <form action="#" class="appointment-form1 px-10 py-10 px-sm-30 py-sm-30 px-xl-80 py-xl-80 bg-white">
                     <div class="form-title text-center mb-30">
-                        <h2 class="text-font3">Book a table Easily in online</h2>
+                        <h2 class="text-font3">Reserva con nosotros desde aquí</h2>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="text" class="form-control dateTime-pick" placeholder="Select Date &
-                                    Time" />
+                        <input type="text" class="form-control dateTime-pick" placeholder="Fecha y hora" />
                         <i class="fal fa-calendar-alt"></i>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="number" class="form-control" placeholder="Person" />
+                        <input type="number" class="form-control" placeholder="Número de personas" />
                         <i class="fal fa-user"></i>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="text" class="form-control" placeholder="Your
-                                    Name" />
+                        <input type="text" class="form-control" placeholder="Nombre completo del titular" />
                         <i class="fal fa-user"></i>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="number" class="form-control" placeholder="Contact
-                                    Number" />
+                        <input type="number" class="form-control" placeholder="Teléfono" />
                         <i class="fal fa-phone"></i>
+                    </div>
+                    <div class="form-group mb-20">
+                        <input type="number" class="form-control" placeholder="Correo" />
+                        <i class="fal fa-envelope"></i>
                     </div>
                     <div class="form-btn">
                         <button type="submit" class="vs-btn mask-style1 rounded-0 w-100">
-                            Book Your Table
+                            Enviar
                         </button>
                     </div>
                 </form>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="mapa">
+    <div class="container-fluid">
+        <div class="row h-100">
+            <div class="col-md-12" style="padding: 0px 0px;margin-bottom: -10px;">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d911.4730497770894!2d-110.30813894726921!3d24.17065225162174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86afd5bee67b471f%3A0xaad76c688a1a2a70!2sSushito!5e0!3m2!1ses-419!2smx!4v1671059206724!5m2!1ses-419!2smx"
+                    width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </div>
