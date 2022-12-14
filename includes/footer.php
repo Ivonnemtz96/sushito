@@ -1,6 +1,5 @@
 <footer class="footer-wrapper footer-layout1 dark-footer">
-    <div
-        class="footer-widget-wrapper border-top footer-widget-layout1 pt-40 pt-lg-195 pt-xl-210 pb-10 pb-lg-70 z-index-common">
+    <div hidden class="footer-widget-wrapper border-top footer-widget-layout1 pt-40 pt-lg-195 pt-xl-210 pb-10 pb-lg-70 z-index-common">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-xl-4">
@@ -87,7 +86,7 @@
         <div class="container">
             <p class="text-white mb-0">
                 Copyright <i class="fal fa-copyright"></i> 2022
-                <a href="index.html">Grillino</a> - All rights reserved by
+                <a href="index.html">Grillino</a> - All rights reserved bydddd
                 <a href="https://themeforest.net/user/vecuro_themes">Vecuro</a>.
             </p>
         </div>
