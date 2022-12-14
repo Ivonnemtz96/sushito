@@ -2,7 +2,7 @@
     <div class="vs-hero-carousel navprevnext-white" data-height="550px" data-navprevnext="true">
         <div class="vs-hero-slide ls-slide" data-ls="duration: 7000;
                     transition2d: 5;">
-            <img src="assets/img/hero/hero-img-4-1.png" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;" />
+            <img src="assets/img/hero/hero-img-4-1.jpg" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;" style="margin-top: -1rem;" />
             <span class="hero-subtitle text-white text-font3 h1 ls-l" style="
               left: 50%;
               top: 140px;
@@ -77,7 +77,7 @@
             </div>
         </div>
         <div class="vs-hero-slide ls-slide" data-ls="duration: 7000; transition2d: 5;">
-            <img src="assets/img/hero/hero-img-4-2.png" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;" />
+            <img src="assets/img/hero/hero-img-4-2.jpg" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;" />
             <span class="hero-subtitle text-white text-font3 h1 ls-l" style="
               left: 50%;
               top: 140px;
@@ -151,7 +151,7 @@
             </div>
         </div>
         <div class="vs-hero-slide ls-slide" data-ls="duration: 7000; transition2d: 5;">
-            <img src="assets/img/hero/hero-img-4-3.png" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;" />
+            <img src="assets/img/hero/hero-img-4-3.jpg" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;" />
             <span class="hero-subtitle text-white text-font3 h1 ls-l" style="
               left: 50%;
               top: 140px;
