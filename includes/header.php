@@ -78,11 +78,11 @@
                             </p>
                         </div>
                     </div>
-                    <div class="header-btn pl-lg-50">
+                    <!-- <div class="header-btn pl-lg-50">
                         <a href="#" class="icon-btn text-theme mr-15 searchBoxTggler"><i class="fal fa-search"></i></a>
                         <a href="#" class="icon-btn text-theme sideMenuToggler cart-btn"><span
                                 class="number bg-theme">9</span><i class="fal fa-shopping-cart"></i></a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
