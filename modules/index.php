@@ -12,7 +12,7 @@
               text-align: center;
             " data-ls="offsetxin: -200; durationin: 1000; delayin:
                         600; easingin:easeOutQuint; offsetxout: -50;
-                        durationout: 1000;">Welcome to</span>
+                        durationout: 1000;">Bienvenidos a</span>
             <h1 class="hero-title text-white ls-l" style="
               left: 50%;
               top: 245px;
@@ -24,9 +24,9 @@
             " data-ls="offsetxin: 100; durationin: 1000; delayin: 700;
                         easingin:easeOutQuint; offsetxout: 50; durationout:
                         1000;">
-                Grillino
+                Sushito <br> Malecón
             </h1>
-            <p class="ls-l text-white" style="
+            <!-- <p class="ls-l text-white" style="
               left: 50%;
               top: 368px;
               width: 900px;
@@ -38,8 +38,8 @@
                         durationin:1000; scalexin:0.8; scaleyin:0.8;
                         scalexout:1.1; scaleyout: 1.1;">
                 Home of the best hand made delicious food
-            </p>
-            <span class="shape1 ls-l" style="
+            </p> -->
+            <!-- <span class="shape1 ls-l" style="
               left: 300px;
               top: 379px;
               width: 80px;
@@ -57,7 +57,7 @@
               background-color: #ffffff;
             " data-ls="offsetxin: 100;
                         durationin: 1000; delayin: 1500; easingin:easeOutQuint;
-                        offsetxout: 50; durationout: 1000;"></span>
+                        offsetxout: 50; durationout: 1000;"></span> -->
             <div class="hero-btn ls-l" style="
               left: 50%;
               top: 425px;
@@ -67,12 +67,13 @@
               border-radius: 50px;
               line-height: 60px;
               font-size: 18px;
+              margin-top:40px;
             " data-ls="delayin: 1100; showinfo:1;
                         durationin:2000; easingin:easeOutExpo; scalexin:0.9;
                         scaleyin:0.9; scalexout:1.1; scaleyout: 1.1;
                         fadein:true; fadeout: true; transformoriginin:50% 143.8%
                         0;">
-                <a href="contact.html" class="vs-btn mask-style1">Explore Foods</a>
+                <a href="contact.html" class="vs-btn mask-style1">Ver galería</a>
             </div>
         </div>
         <div class="vs-hero-slide ls-slide" data-ls="duration: 7000; transition2d: 5;">
@@ -86,7 +87,7 @@
               text-align: center;
             " data-ls="offsetxin: -200; durationin: 1000; delayin:
                         600; easingin:easeOutQuint; offsetxout: -50;
-                        durationout: 1000;">Welcome to</span>
+                        durationout: 1000;">Expertos en</span>
             <h1 class="hero-title text-white ls-l" style="
               left: 50%;
               top: 245px;
@@ -98,7 +99,7 @@
             " data-ls="offsetxin: 100; durationin: 1000; delayin: 700;
                         easingin:easeOutQuint; offsetxout: 50; durationout:
                         1000;">
-                Food World
+                Sushi
             </h1>
             <p class="ls-l text-white" style="
               left: 50%;
@@ -111,7 +112,7 @@
             " data-ls="delayin: 800; showinfo:1;
                         durationin:1000; scalexin:0.8; scaleyin:0.8;
                         scalexout:1.1; scaleyout: 1.1;">
-                we have everthing you need just order now
+                Tenemos lo que necesitas, ven y disfruta
             </p>
             <span class="shape1 ls-l" style="
               left: 300px;
@@ -146,7 +147,7 @@
                         scaleyin:0.9; scalexout:1.1; scaleyout: 1.1;
                         fadein:true; fadeout: true; transformoriginin:50% 143.8%
                         0;">
-                <a href="contact.html" class="vs-btn mask-style1">Explore Foods</a>
+                <a href="contact.html" class="vs-btn mask-style1">Ver galería</a>
             </div>
         </div>
         <div class="vs-hero-slide ls-slide" data-ls="duration: 7000; transition2d: 5;">
@@ -160,7 +161,7 @@
               text-align: center;
             " data-ls="offsetxin: -200; durationin: 1000; delayin:
                         600; easingin:easeOutQuint; offsetxout: -50;
-                        durationout: 1000;">Welcome to</span>
+                        durationout: 1000;">¿Ya nos conoces?</span>
             <h1 class="hero-title text-white ls-l" style="
               left: 50%;
               top: 245px;
@@ -172,9 +173,9 @@
             " data-ls="offsetxin: 100; durationin: 1000; delayin: 700;
                         easingin:easeOutQuint; offsetxout: 50; durationout:
                         1000;">
-                Party Zone
+                Sushito Malecón
             </h1>
-            <p class="ls-l text-white" style="
+            <!-- <p class="ls-l text-white" style="
               left: 50%;
               top: 368px;
               width: 900px;
@@ -205,7 +206,7 @@
               background-color: #ffffff;
             " data-ls="offsetxin: 100;
                         durationin: 1000; delayin: 1500; easingin:easeOutQuint;
-                        offsetxout: 50; durationout: 1000;"></span>
+                        offsetxout: 50; durationout: 1000;"></span> -->
             <div class="hero-btn ls-l" style="
               left: 50%;
               top: 425px;
@@ -215,12 +216,13 @@
               border-radius: 50px;
               line-height: 60px;
               font-size: 18px;
+              margin-top:40px;
             " data-ls="delayin: 1100; showinfo:1;
                         durationin:2000; easingin:easeOutExpo; scalexin:0.9;
                         scaleyin:0.9; scalexout:1.1; scaleyout: 1.1;
                         fadein:true; fadeout: true; transformoriginin:50% 143.8%
                         0;">
-                <a href="contact.html" class="vs-btn mask-style1">Explore Foods</a>
+                <a href="contact.html" class="vs-btn mask-style1">Reservar</a>
             </div>
         </div>
     </div>
@@ -237,7 +239,7 @@
             <div class="col-lg-6 align-self-center">
                 <div class="about-content">
                     <h2 class="sec-title1 text-font3">
-                        Discover Our <span class="text-theme">Story</span>
+                        Descubre nuestra <span class="text-theme">historia</span>
                     </h2>
                     <div class="sec-line text-left mx-0">
                         <img src="assets/img/shape/sec-title-1.png" alt="Section Shape Icon" />
@@ -256,8 +258,8 @@
                                             class="flaticon-cocktail icon-2x"></i></span>
                                 </div>
                                 <div class="media-body">
-                                    <span class="counter text-title">93</span>
-                                    <h3 class="h5 my-0 text-font1">Beverages</h3>
+                                    <span class="counter text-title">40</span>
+                                    <h3 class="h5 my-0 text-font1">Bebidas</h3>
                                 </div>
                             </div>
                         </div>
@@ -268,8 +270,8 @@
                                             class="flaticon-restaurant icon-2x"></i></span>
                                 </div>
                                 <div class="media-body">
-                                    <span class="counter text-title">206</span>
-                                    <h3 class="h5 my-0 text-font1">Food Items</h3>
+                                    <span class="counter text-title">30</span>
+                                    <h3 class="h5 my-0 text-font1">Platillos</h3>
                                 </div>
                             </div>
                         </div>
@@ -279,8 +281,8 @@
                                     <span class="counter-icon text-theme"><i class="flaticon-chef icon-2x"></i></span>
                                 </div>
                                 <div class="media-body">
-                                    <span class="counter text-title">75</span>
-                                    <h3 class="h5 my-0 text-font1">Cooks</h3>
+                                    <span class="counter text-title">200</span>
+                                    <h3 class="h5 my-0 text-font1">Clientes</h3>
                                 </div>
                             </div>
                         </div>
@@ -297,7 +299,7 @@
             <div class="col-md-11 col-lg-9 col-xl-7">
                 <div class="section-title text-center">
                     <h2 class="sec-title1 text-font3">
-                        <span class="text-theme">Our</span> Strength
+                        <span class="text-theme">¿Tienes algún</span> evento?
                     </h2>
                     <div class="sec-line">
                         <img src="assets/img/shape/sec-title-1.png" alt="Section Shape Icon" />
@@ -313,8 +315,7 @@
                     <span class="service-icon text-theme d-block mb-30"><i class="flaticon-fork icon-3x"></i></span>
                     <h3 class="service-title link-inherit mb-10">Catering</h3>
                     <p class="service-text mb-0">
-                        Synergistically envisioneer client centered functionalities for
-                        go forward data world.
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda impedit quia beatae doloremque fuga, nemo et corporis ex amet maxime?
                     </p>
                 </div>
             </div>
@@ -322,30 +323,27 @@
                 <div class="vs-service vs-box1 px-20 px-xl-40 pt-30 pt-xl-60 pb-20 pb-xl-50 mb-30">
                     <span class="service-icon text-theme d-block mb-30"><i
                             class="flaticon-serving-dish icon-3x"></i></span>
-                    <h3 class="service-title link-inherit mb-10">Dinner</h3>
+                    <h3 class="service-title link-inherit mb-10">Cena</h3>
                     <p class="service-text mb-0">
-                        Synergistically envisioneer client centered functionalities for
-                        go forward data world.
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro similique quasi ea enim reiciendis quisquam sit sunt et non? Enim!
                     </p>
                 </div>
             </div>
             <div class="col-xl-4">
                 <div class="vs-service vs-box1 px-20 px-xl-40 pt-30 pt-xl-60 pb-20 pb-xl-50 mb-30">
                     <span class="service-icon text-theme d-block mb-30"><i class="flaticon-flag icon-3x"></i></span>
-                    <h3 class="service-title link-inherit mb-10">Wedding</h3>
+                    <h3 class="service-title link-inherit mb-10">Boda</h3>
                     <p class="service-text mb-0">
-                        Synergistically envisioneer client centered functionalities for
-                        go forward data world.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed exercitationem delectus impedit praesentium saepe nostrum rem, hic ullam iusto ea.
                     </p>
                 </div>
             </div>
             <div class="col-xl-4">
                 <div class="vs-service vs-box1 px-20 px-xl-40 pt-30 pt-xl-60 pb-20 pb-xl-50 mb-30">
                     <span class="service-icon text-theme d-block mb-30"><i class="flaticon-confetti icon-3x"></i></span>
-                    <h3 class="service-title link-inherit mb-10">Birthday</h3>
+                    <h3 class="service-title link-inherit mb-10">Cumpleaños</h3>
                     <p class="service-text mb-0">
-                        Synergistically envisioneer client centered functionalities for
-                        go forward data world.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum libero suscipit quasi eius et recusandae nulla cumque fugiat quo consequuntur!
                     </p>
                 </div>
             </div>
