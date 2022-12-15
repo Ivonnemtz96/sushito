@@ -74,7 +74,7 @@
                         scaleyin:0.9; scalexout:1.1; scaleyout: 1.1;
                         fadein:true; fadeout: true; transformoriginin:50% 143.8%
                         0;">
-                <a href="#gallery" class="vs-btn mask-style1">Ver galería</a>
+                <a href="menu.php" class="vs-btn mask-style1">Ver menú</a>
             </div>
         </div>
         <div class="vs-hero-slide ls-slide" data-ls="duration: 7000; transition2d: 5;">

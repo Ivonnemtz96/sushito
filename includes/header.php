@@ -11,7 +11,7 @@
                     <ul>
                         <li><a href="index.php">Inicio</a></li>
                         <li><a href="#about">Nosotros</a></li>
-                        <li><a href="#menu">Menu</a></li>
+                        <li><a href="menu.php">Menu</a></li>
                         <li><a href="#gallery">Galería</a></li>
                         <li><a href="#contact">Contacto</a></li>
                     </ul>
@@ -50,7 +50,7 @@
                     <ul>
                         <li><a href="index.php">Inicio</a></li>
                         <li><a href="#about">Nosotros</a></li>
-                        <li><a href="#menu">Menu</a></li>
+                        <li><a href="menu.php">Menu</a></li>
                         <li><a href="#gallery">Galería</a></li>
                         <li><a href="#contact">Contacto</a></li>
                     </ul>
