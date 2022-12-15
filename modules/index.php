@@ -74,7 +74,7 @@
                         scaleyin:0.9; scalexout:1.1; scaleyout: 1.1;
                         fadein:true; fadeout: true; transformoriginin:50% 143.8%
                         0;">
-                <a href="contact.html" class="vs-btn mask-style1">Ver galería</a>
+                <a href="#gallery" class="vs-btn mask-style1">Ver galería</a>
             </div>
         </div>
         <div class="vs-hero-slide ls-slide" data-ls="duration: 7000; transition2d: 5;">
@@ -148,7 +148,7 @@
                         scaleyin:0.9; scalexout:1.1; scaleyout: 1.1;
                         fadein:true; fadeout: true; transformoriginin:50% 143.8%
                         0;">
-                <a href="contact.html" class="vs-btn mask-style1">Ver galería</a>
+                <a href="#gallery" class="vs-btn mask-style1">Ver galería</a>
             </div>
         </div>
         <div class="vs-hero-slide ls-slide" data-ls="duration: 7000; transition2d: 5;">
@@ -223,7 +223,7 @@
                         scaleyin:0.9; scalexout:1.1; scaleyout: 1.1;
                         fadein:true; fadeout: true; transformoriginin:50% 143.8%
                         0;">
-                <a href="contact.html" class="vs-btn mask-style1">Reservar</a>
+                <a href="#contact" class="vs-btn mask-style1">Reservar</a>
             </div>
         </div>
     </div>
@@ -378,61 +378,7 @@
     </div>
 </section>
 
-<section class="vs-testimonial-wrapper vs-testimonial-layout3 pt-lg-130 pt-60 pb-lg-100 pb-30">
-    <div class="container">
-        <div class="section-title text-center">
-            <h2 class="sec-title1 text-font3">
-                ¿Qué dicen <span class="text-theme">nuestros clientes?</span>
-            </h2>
-            <div class="sec-line">
-                <img src="assets/img/shape/sec-title-1.png" alt="Section
-                            Shape Icon" />
-            </div>
-        </div>
-        <div class="row vs-carousel arrow-has-margin" data-slidetoshow="2" data-arrows="true" data-mdslidetoshow="1"
-            data-smslidetoshow="1" data-xsslidetoshow="1">
-            <div class="col-lg-6">
-                <div class="vs-testimonial text-center bg-smoke px-15 px-md-40 px-xl-60 py-15 py-md-35 py-xl-95">
-                    <p class="testimonial-text text-md mb-lg-35">
-                        “ Excelente servicio y atención del personal ”
-                    </p>
-                    <div class="author-image">
-                        <img src="assets/img/testimonial/testimonial-author-2-1.jpg" alt="Testimonial Author Image" />
-                    </div>
-                    <span class="testimonial-bg-icon"><i class="flaticon-left-quote icon-3x"
-                            data-opacity="1"></i></span>
-                    <h3 class="author-name mb-0">Alex Ch Lopez <br><br></h3>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="vs-testimonial text-center bg-smoke px-15 px-md-40 px-xl-60 py-15 py-md-35 py-xl-95">
-                    <p class="testimonial-text text-md mb-lg-35">
-                        “ Excelente servicio y atencion”
-                    </p>
-                    <div class="author-image">
-                        <img src="assets/img/testimonial/testimonial-author-2-1.jpg" alt="Testimonial Author Image" />
-                    </div>
-                    <span class="testimonial-bg-icon"><i class="flaticon-left-quote icon-3x"
-                            data-opacity="1"></i></span>
-                    <h3 class="author-name mb-0">Mike Holguin <br><br></h3>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="vs-testimonial text-center bg-smoke px-15 px-md-40 px-xl-60 py-15 py-md-35 py-xl-95">
-                    <p class="testimonial-text text-md mb-lg-35">
-                        “Excelente servicio y riquísimo la comida 🍲”
-                    </p>
-                    <div class="author-image">
-                        <img src="assets/img/testimonial/testimonial-author-2-1.jpg" alt="Testimonial Author Image" />
-                    </div>
-                    <span class="testimonial-bg-icon"><i class="flaticon-left-quote icon-3x"
-                            data-opacity="1"></i></span>
-                    <h3 class="author-name mb-0">Ivan Alberto Cardenas Amador</h3>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 
 <section class="vs-gallery-wrapper gallery-box-layout1 link-inherit pb-lg-100 pb-30" id="gallery">
     <div class="container">
@@ -566,6 +512,62 @@
                         <a href="assets/img/gallery/gallery-img-1-8.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="vs-testimonial-wrapper vs-testimonial-layout3 pt-lg-130 pt-60 pb-lg-100 pb-30">
+    <div class="container">
+        <div class="section-title text-center">
+            <h2 class="sec-title1 text-font3">
+                ¿Qué dicen <span class="text-theme">nuestros clientes?</span>
+            </h2>
+            <div class="sec-line">
+                <img src="assets/img/shape/sec-title-1.png" alt="Section
+                            Shape Icon" />
+            </div>
+        </div>
+        <div class="row vs-carousel arrow-has-margin" data-slidetoshow="2" data-arrows="true" data-mdslidetoshow="1"
+            data-smslidetoshow="1" data-xsslidetoshow="1">
+            <div class="col-lg-6">
+                <div class="vs-testimonial text-center bg-smoke px-15 px-md-40 px-xl-60 py-15 py-md-35 py-xl-95">
+                    <p class="testimonial-text text-md mb-lg-35">
+                        “ Excelente servicio y atención del personal ”
+                    </p>
+                    <div class="author-image">
+                        <img src="assets/img/testimonial/testimonial-author-2-1.jpg" alt="Testimonial Author Image" />
+                    </div>
+                    <span class="testimonial-bg-icon"><i class="flaticon-left-quote icon-3x"
+                            data-opacity="1"></i></span>
+                    <h3 class="author-name mb-0">Alex Ch Lopez <br><br></h3>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="vs-testimonial text-center bg-smoke px-15 px-md-40 px-xl-60 py-15 py-md-35 py-xl-95">
+                    <p class="testimonial-text text-md mb-lg-35">
+                        “ Excelente servicio y atencion”
+                    </p>
+                    <div class="author-image">
+                        <img src="assets/img/testimonial/testimonial-author-2-1.jpg" alt="Testimonial Author Image" />
+                    </div>
+                    <span class="testimonial-bg-icon"><i class="flaticon-left-quote icon-3x"
+                            data-opacity="1"></i></span>
+                    <h3 class="author-name mb-0">Mike Holguin <br><br></h3>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="vs-testimonial text-center bg-smoke px-15 px-md-40 px-xl-60 py-15 py-md-35 py-xl-95">
+                    <p class="testimonial-text text-md mb-lg-35">
+                        “Excelente servicio y riquísimo la comida 🍲”
+                    </p>
+                    <div class="author-image">
+                        <img src="assets/img/testimonial/testimonial-author-2-1.jpg" alt="Testimonial Author Image" />
+                    </div>
+                    <span class="testimonial-bg-icon"><i class="flaticon-left-quote icon-3x"
+                            data-opacity="1"></i></span>
+                    <h3 class="author-name mb-0">Ivan Alberto Cardenas Amador</h3>
                 </div>
             </div>
         </div>

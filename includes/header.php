@@ -3,13 +3,13 @@
         <div class="row align-items-center">
             <div class="col-5 col-md-3">
                 <div class="logo">
-                    <a href="index.html"><img src="assets/img/logo.png" alt="logo sushito malecon" /></a>
+                    <a href="index.php"><img src="assets/img/logo.png" alt="logo sushito malecon" /></a>
                 </div>
             </div>
             <div class="col-7 col-md-9 text-right position-static">
                 <nav class="main-menu menu-sticky1 d-none d-lg-block link-inherit">
                     <ul>
-                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="index.php">Inicio</a></li>
                         <li><a href="#about">Nosotros</a></li>
                         <li><a href="#menu">Menu</a></li>
                         <li><a href="#gallery">Galería</a></li>
@@ -29,7 +29,7 @@
             <i class="fal fa-times"></i>
         </button>
         <div class="mobile-logo">
-            <a href="index.html"><img src="assets/img/logo.png" alt="logo sushito malecon" /></a>
+            <a href="index.php"><img src="assets/img/logo.png" alt="logo sushito malecon" /></a>
         </div>
         <div class="vs-mobile-menu link-inherit"></div>
     </div>
@@ -39,16 +39,16 @@
         <div class="row align-items-center">
             <div class="col-6 col-lg-2">
                 <div class="header-logo">
-                    <a href="index.html"><img src="assets/img/logo-white.png" class="d-none d-lg-block"
+                    <a href="index.php"><img src="assets/img/logo-white.png" class="d-none d-lg-block"
                             alt="sushito malecon" /></a><a
-                        href="index.html"><img src="assets/img/logo.png" class="d-block d-lg-none"
+                        href="index.php"><img src="assets/img/logo.png" class="d-block d-lg-none"
                             alt="sushito malecon" /></a>
                 </div>
             </div>
             <div class="col-6 col-lg-6 col-xl-5 position-static">
                 <nav class="main-menu menu-style3 link-inherit text-right text-xl-left mobile-menu-active dark-style">
                     <ul>
-                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="index.php">Inicio</a></li>
                         <li><a href="#about">Nosotros</a></li>
                         <li><a href="#menu">Menu</a></li>
                         <li><a href="#gallery">Galería</a></li>
@@ -73,7 +73,7 @@
                         </div>
                     </div>
                     <div class="header-btn pl-xl-50">
-                        <a href="contact.html" class="vs-btn mask-style1">Hacer reserva</a>
+                        <a href="#contact" class="vs-btn mask-style1">Hacer reserva</a>
                     </div>
                 </div>
             </div>
