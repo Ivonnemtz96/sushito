@@ -357,7 +357,7 @@
 </section>
 
 <section class="vs-cta-wrapper background-image bg-fluid py-lg-130 py-60" data-vs-img="assets/img/cta/banner-1.jpg"
-    data-overlay="dark" data-opacity="5">
+    data-overlay="dark" data-opacity="5" style="background-size: cover;">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-xl-8">
