@@ -8,12 +8,12 @@
             </div>
             <div class="col-7 col-md-9 text-right position-static">
                 <nav class="main-menu menu-sticky1 d-none d-lg-block link-inherit">
-                    <ul>
+                <ul>
                         <li><a href="index.php">Inicio</a></li>
-                        <li><a href="#about">Nosotros</a></li>
+                        <li><a href="index.php#about">Nosotros</a></li>
                         <li><a href="menu.php">Menu</a></li>
-                        <li><a href="#gallery">Galería</a></li>
-                        <li><a href="#contact">Contacto</a></li>
+                        <li><a href="index.php#gallery">Galería</a></li>
+                        <li><a href="index.php#contact">Contacto</a></li>
                     </ul>
                 </nav>
                 <button class="vs-menu-toggle text-theme border-theme d-inline-block d-lg-none">
@@ -49,10 +49,10 @@
                 <nav class="main-menu menu-style3 link-inherit text-right text-xl-left mobile-menu-active dark-style">
                     <ul>
                         <li><a href="index.php">Inicio</a></li>
-                        <li><a href="#about">Nosotros</a></li>
+                        <li><a href="index.php#about">Nosotros</a></li>
                         <li><a href="menu.php">Menu</a></li>
-                        <li><a href="#gallery">Galería</a></li>
-                        <li><a href="#contact">Contacto</a></li>
+                        <li><a href="index.php#gallery">Galería</a></li>
+                        <li><a href="index.php#contact">Contacto</a></li>
                     </ul>
                 </nav>
                 <button type="button" class="vs-menu-toggle ml-auto d-block text-theme border-theme d-lg-none">
