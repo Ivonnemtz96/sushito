@@ -13,7 +13,7 @@
                         <li><a href="#about">Nosotros</a></li>
                         <li><a href="#menu">Menu</a></li>
                         <li><a href="#gallery">Galería</a></li>
-                        <li><a href="#contact">Contact</a></li>
+                        <li><a href="#contact">Contacto</a></li>
                     </ul>
                 </nav>
                 <button class="vs-menu-toggle text-theme border-theme d-inline-block d-lg-none">
@@ -52,7 +52,7 @@
                         <li><a href="#about">Nosotros</a></li>
                         <li><a href="#menu">Menu</a></li>
                         <li><a href="#gallery">Galería</a></li>
-                        <li><a href="#contact">Contact</a></li>
+                        <li><a href="#contact">Contacto</a></li>
                     </ul>
                 </nav>
                 <button type="button" class="vs-menu-toggle ml-auto d-block text-theme border-theme d-lg-none">
@@ -68,7 +68,7 @@
                         <div class="media-body">
                             <span class="d-block mb-1">Ordena aquí</span>
                             <p class="mb-0 h4 text-font1">
-                                <a href="tel:+869526212">+869 526 212</a>
+                                <a href="tel:+526126681">612 138 6681</a>
                             </p>
                         </div>
                     </div>
