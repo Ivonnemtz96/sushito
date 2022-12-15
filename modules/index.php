@@ -615,6 +615,15 @@
                             </p>
                         </div>
                     </div>
+                    <div class="icon-contact-box mb-10 mb-lg-30 d-flex">
+                        <span class="icon"><i class="fal fa-clock fa-3x"></i></span>
+                        <div class="media-body ml-15">
+                            <h3 class="box-title mb-1">Horario</h3>
+                            <p class="mb-0">
+                                Lunes - Domingo: 13:00 a 23:00
+                            </p>
+                        </div>
+                    </div>
                     <div class="social-links links-has-border">
                         <h3 class="box-title mb-2">¡Síguenos en nuestras redes sociales!</h3>
                         <ul>
