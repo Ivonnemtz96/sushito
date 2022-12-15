@@ -18,21 +18,21 @@ Códigos de error
 
 * */
 
-$captcha_es_valido = validarReCaptcha($_REQUEST['g-recaptcha-response']);
-if (!$captcha_es_valido) {
-  mandarError("3");
-}
+// $captcha_es_valido = validarReCaptcha($_REQUEST['g-recaptcha-response']);
+// if (!$captcha_es_valido) {
+//   mandarError("3");
+// }
 
-if (!validarVariable($nombre)|| !validarVariable($email) || !validarVariable($tel) || !validarVariable($asunto) || !validarVariable($msj)) {
+if (!validarVariable($nombre)|| !validarVariable($numPax) || !validarVariable($fecha)|| !validarVariable($mail) || !validarVariable($tel)) {
   mandarError("1");
 }
 
-$correo_nuevo = new Correo("gerencia@grupofecsa.com.mx", $nombre.' ha enviado un nuevo mensaje');
+$correo_nuevo = new Correo("ivonne.mtz.manzo@gmail.com", $nombre.' ha enviado un nuevo mensaje');
 $correo_nuevo->agregarCampos("Nombre: ", $nombre);
-$correo_nuevo->agregarCampos("Email: ", $email);
+$correo_nuevo->agregarCampos("Número de pax: ", $numPax);
+$correo_nuevo->agregarCampos("Fecha: ", $fecha);
+$correo_nuevo->agregarCampos("Email: ", $mail);
 $correo_nuevo->agregarCampos("Teléfono: ", $tel);
-$correo_nuevo->agregarCampos("Asunto: ", $asunto);
-$correo_nuevo->agregarCampos("Mensaje: ", $msj);
 // $correo_nuevo->agregarCampos("Mensaje: ", $msj);
 $enviado = $correo_nuevo->enviarEmail();
 
@@ -53,21 +53,21 @@ function mandarError($codigo_de_error)
        //header('location: index2.html?err=' .$codigo_de_error);
      
     if($codigo_de_error == "0"){
-        header('location: /index.html?err='. $codigo_de_error);
+        header('location: /index.php?msj='. $codigo_de_error);
         exit;   
     }
         if($codigo_de_error == "1"){
-            header('location: /index.html?msj='. $codigo_de_error);
+            header('location: /index.php?msj='. $codigo_de_error);
              exit;
     exit;   
     }if($codigo_de_error == "2"){
-        header('location: /index.html?msj='. $codigo_de_error);
+        header('location: /index.php?msj='. $codigo_de_error);
         exit;
       
     exit;   
     }
      if($codigo_de_error == "3"){
-        header('location: /index.html?msj=' . $codigo_de_error);
+        header('location: /index.php?msj=' . $codigo_de_error);
         exit;
       
     exit;   
@@ -94,33 +94,33 @@ function validarVariable($variable_del_formulario)
   return $es_valida;
 }
 
-function validarReCaptcha($g_recaptcha)
-{
+// function validarReCaptcha($g_recaptcha)
+// {
 
-  $ch = curl_init();
-  curl_setopt($ch, CURLOPT_URL, "https://www.google.com/recaptcha/api/siteverify");
-  curl_setopt($ch, CURLOPT_POST, 1);
-  curl_setopt(
-    $ch,
-    CURLOPT_POSTFIELDS,
-    "secret=6Lf92OAfAAAAAGGejKGqc94KGRbvBG1S9clILw2m&response=$g_recaptcha"
-  );
+//   $ch = curl_init();
+//   curl_setopt($ch, CURLOPT_URL, "https://www.google.com/recaptcha/api/siteverify");
+//   curl_setopt($ch, CURLOPT_POST, 1);
+//   curl_setopt(
+//     $ch,
+//     CURLOPT_POSTFIELDS,
+//     "secret=6Lf92OAfAAAAAGGejKGqc94KGRbvBG1S9clILw2m&response=$g_recaptcha"
+//   );
 
-  // In real life you should use something like:
-  // curl_setopt($ch, CURLOPT_POSTFIELDS, 
-  //          http_build_query(array('postvar1' => 'value1')));
+//   // In real life you should use something like:
+//   // curl_setopt($ch, CURLOPT_POSTFIELDS, 
+//   //          http_build_query(array('postvar1' => 'value1')));
 
-  // Receive server response ...
-  curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+//   // Receive server response ...
+//   curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 
-  $server_output = curl_exec($ch);
-  $json_response = json_decode($server_output);
-  // $success = $json_response['success'];
-  // var_dump($success);
-  $success = $json_response->success;
-  curl_close($ch);
-  return $success;
-}
+//   $server_output = curl_exec($ch);
+//   $json_response = json_decode($server_output);
+//   // $success = $json_response['success'];
+//   // var_dump($success);
+//   $success = $json_response->success;
+//   curl_close($ch);
+//   return $success;
+// }
 
 class Correo
 {

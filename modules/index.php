@@ -1,3 +1,8 @@
+<?php
+if (isset($_GET)) {
+    include_once("php/msg.php");
+}
+?>
 <section class="vs-hero-wrapper vs-hero-layout4">
     <div class="vs-hero-carousel navprevnext-white" data-height="550px" data-navprevnext="true">
         <div class="vs-hero-slide ls-slide" data-ls="duration: 7000;
@@ -246,10 +251,8 @@
                         <img src="assets/img/shape/sec-title-1.png" alt="Section Shape Icon" />
                     </div>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni
-                        commodi doloribus natus. Distinctio rerum repellendus incidunt
-                        magni molestias sapiente, amet cumque commodi aspernatur
-                        corporis nulla tempore qui facere veniam rem ea assumenda!
+                        En Sushito Malecón, nos gusta ofrecer productos originales y nutritivos para que nuestros clientes degusten el verdadero sabor oriental, acompañados de una hermosa vista al Malecón de La Paz. <br>
+                        Brindamos la mejor experiencia en calidad y sabor que tu paladar necesita descubrir.
                     </p>
                     <div class="row">
                         <div class="col-sm-4 col-lg-4 col-xl-4">
@@ -282,7 +285,7 @@
                                     <span class="counter-icon text-theme"><i class="flaticon-chef icon-2x"></i></span>
                                 </div>
                                 <div class="media-body">
-                                    <span class="counter text-title">200</span>
+                                    <span class="counter text-title">700</span>
                                     <h3 class="h5 my-0 text-font1">Clientes</h3>
                                 </div>
                             </div>
@@ -311,7 +314,7 @@
         <div class="row arrow-has-margin text-center vs-carousel pb-lg-50" data-slidetoshow="3" data-dots="true"
             data-xldots="true" data-mldots="true" data-lgdots="true" data-mdslidetoshow="2" data-smslidetoshow="2"
             data-xsslidetoshow="1">
-            <div class="col-xl-4">
+            <!-- <div class="col-xl-4">
                 <div class="vs-service vs-box1 px-20 px-xl-40 pt-30 pt-xl-60 pb-20 pb-xl-50 mb-30">
                     <span class="service-icon text-theme d-block mb-30"><i class="flaticon-fork icon-3x"></i></span>
                     <h3 class="service-title link-inherit mb-10">Catering</h3>
@@ -320,15 +323,14 @@
                         doloremque fuga, nemo et corporis ex amet maxime?
                     </p>
                 </div>
-            </div>
+            </div> -->
             <div class="col-xl-4">
                 <div class="vs-service vs-box1 px-20 px-xl-40 pt-30 pt-xl-60 pb-20 pb-xl-50 mb-30">
                     <span class="service-icon text-theme d-block mb-30"><i
                             class="flaticon-serving-dish icon-3x"></i></span>
                     <h3 class="service-title link-inherit mb-10">Cena</h3>
                     <p class="service-text mb-0">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro similique quasi ea enim
-                        reiciendis quisquam sit sunt et non? Enim!
+                        Ven y degusta nuestras deliciosas recetas acompañada por una hermosa vista del Malecón.
                     </p>
                 </div>
             </div>
@@ -337,8 +339,7 @@
                     <span class="service-icon text-theme d-block mb-30"><i class="flaticon-flag icon-3x"></i></span>
                     <h3 class="service-title link-inherit mb-10">Boda</h3>
                     <p class="service-text mb-0">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed exercitationem delectus impedit
-                        praesentium saepe nostrum rem, hic ullam iusto ea.
+                        Podemos ser parte de tu celebración, con nuestros exquisitos platillos. <br>
                     </p>
                 </div>
             </div>
@@ -347,8 +348,7 @@
                     <span class="service-icon text-theme d-block mb-30"><i class="flaticon-confetti icon-3x"></i></span>
                     <h3 class="service-title link-inherit mb-10">Cumpleaños</h3>
                     <p class="service-text mb-0">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum libero suscipit quasi eius et
-                        recusandae nulla cumque fugiat quo consequuntur!
+                        Estamos para festejarte a ti y a tus invitados, no dudes en visitarnos, te aseguramos que no lo olvidarás.
                     </p>
                 </div>
             </div>
@@ -372,7 +372,7 @@
                 </div>
             </div>
             <div class="col-xl-4 text-center text-xl-right">
-                <a href="#" class="vs-btn mask-style1">Hacer reserva</a>
+                <a href="#contact" class="vs-btn mask-style1">Hacer reserva</a>
             </div>
         </div>
     </div>
@@ -381,7 +381,7 @@
 
 
 <section class="vs-gallery-wrapper gallery-box-layout1 link-inherit pb-lg-100 pb-30" id="gallery">
-    <div class="container">
+    <div class="container mt-5">
         <div class="section-title text-center">
             <h2 class="sec-title1 text-font3">
                 Enamórate de <span class="text-theme">nuestra galería</span>
@@ -642,32 +642,33 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <form action="#" class="appointment-form1 px-10 py-10 px-sm-30 py-sm-30 px-xl-80 py-xl-80 bg-white">
+                <form method="POST" action="/php/contact.php" class="appointment-form1 px-10 py-10 px-sm-30 py-sm-30 px-xl-80 py-xl-80 bg-white">
                     <div class="form-title text-center mb-30">
                         <h2 class="text-font3">Reserva con nosotros desde aquí</h2>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="text" class="form-control dateTime-pick" placeholder="Fecha y hora" />
+                        <input type="text" name="fecha" class="form-control dateTime-pick" placeholder="Fecha y hora" required/>
                         <i class="fal fa-calendar-alt"></i>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="number" class="form-control" placeholder="Número de personas" />
+                        <input type="number" name="numPax" class="form-control" placeholder="Número de personas"required />
                         <i class="fal fa-user"></i>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="text" class="form-control" placeholder="Nombre completo del titular" />
+                        <input type="text" name="nombre" class="form-control"
+                            placeholder="Nombre completo del titular" required/>
                         <i class="fal fa-user"></i>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="number" class="form-control" placeholder="Teléfono" />
+                        <input type="number" name="tel" class="form-control" placeholder="Teléfono" required/>
                         <i class="fal fa-phone"></i>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="number" class="form-control" placeholder="Correo" />
+                        <input type="email" name="mail" class="form-control" placeholder="Correo"required />
                         <i class="fal fa-envelope"></i>
                     </div>
                     <div class="form-btn">
-                        <button type="submit" class="vs-btn mask-style1 rounded-0 w-100">
+                        <button type="submit" name="submit" value="submit" class="vs-btn mask-style1 rounded-0 w-100">
                             Enviar
                         </button>
                     </div>
