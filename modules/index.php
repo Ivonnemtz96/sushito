@@ -356,7 +356,7 @@
     </div>
 </section>
 
-<section class="vs-cta-wrapper background-image bg-fluid py-lg-130 py-60" data-vs-img="assets/img/cta/banner-1.png"
+<section class="vs-cta-wrapper background-image bg-fluid py-lg-130 py-60" data-vs-img="assets/img/cta/banner-1.jpg"
     data-overlay="dark" data-opacity="5">
     <div class="container">
         <div class="row align-items-center">
@@ -453,11 +453,11 @@
                     <div class="gallery-img">
                         <img src="assets/img/gallery/gallery-img-1-1.jpg" class="w-100" alt="Gallery Image" />
                     </div>
-                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <h3 class="gallery-title h4 mb-0 text-white">
+                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="3">
+                        <!-- <h3 class="gallery-title h4 mb-0 text-white">
                             <a href="menu-details.html">Antioxidant Fruits Mix</a>
                         </h3>
-                        <span class="gallery-item-author text-white">by Dio Smith</span>
+                        <span class="gallery-item-author text-white">by Dio Smith</span> -->
                         <a href="assets/img/gallery/gallery-img-1-1.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
@@ -468,11 +468,11 @@
                     <div class="gallery-img">
                         <img src="assets/img/gallery/gallery-img-1-2.jpg" class="w-100" alt="Gallery Image" />
                     </div>
-                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <h3 class="gallery-title h4 mb-0 text-white">
+                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="3">
+                        <!-- <h3 class="gallery-title h4 mb-0 text-white">
                             <a href="menu-details.html">Chipotle Chicken Bowl</a>
                         </h3>
-                        <span class="gallery-item-author text-white">by Devid Clark</span>
+                        <span class="gallery-item-author text-white">by Devid Clark</span> -->
                         <a href="assets/img/gallery/gallery-img-1-2.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
@@ -483,11 +483,11 @@
                     <div class="gallery-img">
                         <img src="assets/img/gallery/gallery-img-1-3.jpg" class="w-100" alt="Gallery Image" />
                     </div>
-                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <h3 class="gallery-title h4 mb-0 text-white">
+                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="3">
+                        <!-- <h3 class="gallery-title h4 mb-0 text-white">
                             <a href="menu-details.html">Stuffed Strawberry</a>
                         </h3>
-                        <span class="gallery-item-author text-white">by Hong Suzi</span>
+                        <span class="gallery-item-author text-white">by Hong Suzi</span> -->
                         <a href="assets/img/gallery/gallery-img-1-3.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
@@ -498,11 +498,11 @@
                     <div class="gallery-img">
                         <img src="assets/img/gallery/gallery-img-1-4.jpg" class="w-100" alt="Gallery Image" />
                     </div>
-                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <h3 class="gallery-title h4 mb-0 text-white">
+                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="3">
+                        <!-- <h3 class="gallery-title h4 mb-0 text-white">
                             <a href="menu-details.html">Western Sunrise</a>
                         </h3>
-                        <span class="gallery-item-author text-white">by Mark Polo</span>
+                        <span class="gallery-item-author text-white">by Mark Polo</span> -->
                         <a href="assets/img/gallery/gallery-img-1-4.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
@@ -513,11 +513,11 @@
                     <div class="gallery-img">
                         <img src="assets/img/gallery/gallery-img-1-5.jpg" class="w-100" alt="Gallery Image" />
                     </div>
-                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <h3 class="gallery-title h4 mb-0 text-white">
+                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="3">
+                        <!-- <h3 class="gallery-title h4 mb-0 text-white">
                             <a href="menu-details.html">Boiled Organic Egg</a>
                         </h3>
-                        <span class="gallery-item-author text-white">by Dio Smith</span>
+                        <span class="gallery-item-author text-white">by Dio Smith</span> -->
                         <a href="assets/img/gallery/gallery-img-1-5.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
@@ -528,11 +528,11 @@
                     <div class="gallery-img">
                         <img src="assets/img/gallery/gallery-img-1-6.jpg" class="w-100" alt="Gallery Image" />
                     </div>
-                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <h3 class="gallery-title h4 mb-0 text-white">
+                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="3">
+                        <!-- <h3 class="gallery-title h4 mb-0 text-white">
                             <a href="menu-details.html">Philadelphia salmon</a>
                         </h3>
-                        <span class="gallery-item-author text-white">by Red Parker</span>
+                        <span class="gallery-item-author text-white">by Red Parker</span> -->
                         <a href="assets/img/gallery/gallery-img-1-6.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
@@ -543,11 +543,11 @@
                     <div class="gallery-img">
                         <img src="assets/img/gallery/gallery-img-1-7.jpg" class="w-100" alt="Gallery Image" />
                     </div>
-                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <h3 class="gallery-title h4 mb-0 text-white">
+                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="3">
+                        <!-- <h3 class="gallery-title h4 mb-0 text-white">
                             <a href="menu-details.html">Grilled Tomato Salad</a>
                         </h3>
-                        <span class="gallery-item-author text-white">by Vivi Marian</span>
+                        <span class="gallery-item-author text-white">by Vivi Marian</span> -->
                         <a href="assets/img/gallery/gallery-img-1-7.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
@@ -558,11 +558,11 @@
                     <div class="gallery-img">
                         <img src="assets/img/gallery/gallery-img-1-8.jpg" class="w-100" alt="Gallery Image" />
                     </div>
-                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <h3 class="gallery-title h4 mb-0 text-white">
+                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="3">
+                        <!-- <h3 class="gallery-title h4 mb-0 text-white">
                             <a href="menu-details.html">Fried Chicken Rice</a>
                         </h3>
-                        <span class="gallery-item-author text-white">by Jerzzy Lamot</span>
+                        <span class="gallery-item-author text-white">by Jerzzy Lamot</span> -->
                         <a href="assets/img/gallery/gallery-img-1-8.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
