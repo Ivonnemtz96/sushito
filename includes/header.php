@@ -3,7 +3,7 @@
         <div class="row align-items-center">
             <div class="col-5 col-md-3">
                 <div class="logo">
-                    <a href="index.html"><img src="assets/img/logo.svg" alt="logo" /></a>
+                    <a href="index.html"><img src="assets/img/logo.png" alt="logo sushito malecon" /></a>
                 </div>
             </div>
             <div class="col-7 col-md-9 text-right position-static">
@@ -29,7 +29,7 @@
             <i class="fal fa-times"></i>
         </button>
         <div class="mobile-logo">
-            <a href="index.html"><img src="assets/img/logo.svg" alt="logo" /></a>
+            <a href="index.html"><img src="assets/img/logo.png" alt="logo sushito malecon" /></a>
         </div>
         <div class="vs-mobile-menu link-inherit"></div>
     </div>
@@ -39,10 +39,10 @@
         <div class="row align-items-center">
             <div class="col-6 col-lg-2">
                 <div class="header-logo">
-                    <a href="index.html"><img src="assets/img/logo-white.svg" class="d-none d-lg-block"
-                            alt="Grillino - Food Restaurant Cafe Grill & Bistro HTML Template" /></a><a
-                        href="index.html"><img src="assets/img/logo.svg" class="d-block d-lg-none"
-                            alt="Grillino - Food Restaurant Cafe Grill & Bistro HTML Template" /></a>
+                    <a href="index.html"><img src="assets/img/logo-white.png" class="d-none d-lg-block"
+                            alt="sushito malecon" /></a><a
+                        href="index.html"><img src="assets/img/logo.png" class="d-block d-lg-none"
+                            alt="sushito malecon" /></a>
                 </div>
             </div>
             <div class="col-6 col-lg-6 col-xl-5 position-static">
